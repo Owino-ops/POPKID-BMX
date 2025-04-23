@@ -2,7 +2,7 @@ const fs = require("fs");
 require("dotenv").config();
 
 const config = {
-  SESSION_ID: process.env.SESSION_ID || "POPKID$uKyTN3M0",
+  SESSION_ID: process.env.SESSION_ID || "POPKID~9OlXjDKR#kXz2Pp5EsYzkhtCIE4zsLU421OTOkhZvAveFXNhIb_M",
   PREFIX: process.env.PREFIX || '.',
   AUTO_TYPING: process.env.AUTO_TYPING !== undefined ? process.env.AUTO_TYPING === 'true' : false,
   AUTO_RECORDING: process.env.AUTO_RECORDING !== undefined ? process.env.AUTO_RECORDING === 'true' : false, 
